@@ -1,5 +1,5 @@
 import React from 'react';
-import App from '../timer';
+import App from '../Form';
 class Form extends React.Component {
     state = {
         firstName: '',
