@@ -1,4 +1,5 @@
 import React from 'react';
+import App from '../timer';
 
 class SubscriptionForm extends React.Component {
     state = {
@@ -34,3 +35,4 @@ class SubscriptionForm extends React.Component {
 }
 
 export { SubscriptionForm };
+export default App

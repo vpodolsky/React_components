@@ -1,4 +1,5 @@
 import React from 'react';
+import App from '../timer';
 class Form extends React.Component {
     state = {
         firstName: '',
@@ -42,3 +43,4 @@ class Form extends React.Component {
     }
 }
 export {Form}
+export default App
